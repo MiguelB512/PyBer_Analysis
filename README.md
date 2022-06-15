@@ -27,5 +27,17 @@ When looking at this chart without any other information, it would seem that Rur
 
 ![total_fare_by_city_type](https://user-images.githubusercontent.com/60283799/173926131-b0f24c7d-7781-4ce4-94f1-b898b2f9ffd0.PNG)
 
+## Summary 
+
+These charts both do a good job at displaying complex information in an easy-to-read format that is digestible and lets the viewer make conclusions. It also helps a company make business decisions and allows them to use the charts to further improve profit margins or customer satisfaction. 
+
+Three business recommendations I would make to a company with these statistics would be:
+
+- Try to increase the number of drivers in rural areas through incentives or however else possible. Drivers in these cities will make more than other cities, but also customers will end up paying less due to the average price coming down just a little bit (still enough for Rural drivers to make more). The price might be too high on average for people in rural cities, in turn leading them to use a ride sharing service less. 
+
+- Slightly raise the fare cost in urban cities to give drivers who work for them a better living. The amount of rides will still be high and customers shouldn't mind paying a few dollars more per ride if it meant that their drivers are better off for it. 
+
+- Market the company in rural and suburban neighborhoods more. While it is true that Urban cities will simply need more drivers and have more riders, it's still worth pushing the company a little more in other city types to expand business and get more exposure. 
+
 
 
