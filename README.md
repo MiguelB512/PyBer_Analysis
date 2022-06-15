@@ -19,6 +19,8 @@ The summary DataFrame gives us a good look at the following stats per city type.
 
 The first thing that stands out is the huge difference in the number of rides and drivers between each city type. With 78 drivers in Rural areas and 2,405 in urban areas, which is a 187% difference, it's clear that drivers are more needed in urban areas and also more abundant. Another interesting statistic is the average fares. While the "Average Fare per Ride" aren't too far apart, the difference between "Average Fare per Driver" is quite interesting. On average, drivers in Rural areas earned $40 more than drivers in Urban areas, which have the most drivers and rides by far. From this information, it would seem that being a driver in Rural Areas is the best option. 
 
+---
+
 ### Total Fare by City Type
 
 Total Fare by City Type shows a little bit of a different story. 
